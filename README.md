@@ -9,7 +9,7 @@ This is a sample Express API project for authentication and CRUD operations to P
 
 ## Installation
 
-1. Clone the repository: `git clone https://github.com/your-username/your-repo.git`
+1. Clone the repository: `git clone https://github.com/kanaandubai/ebtikar-express-mysql-test.git`
 2. Install dependencies: `npm install`
 3. Configure database settings in `src/config/config.ts`
 4. Run migrations: `npm run migrate`
