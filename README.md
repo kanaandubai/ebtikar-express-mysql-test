@@ -11,9 +11,8 @@ This is a sample Express API project for authentication and CRUD operations to P
 
 1. Clone the repository: `git clone https://github.com/kanaandubai/ebtikar-express-mysql-test.git`
 2. Install dependencies: `npm install`
-3. Configure database settings in `src/config/config.ts`
-4. Run migrations: `npm run migrate`
-5. Start the server: `npm start`
+3. Configure database settings in (I am using wamp if not working please check ports) `src/config/config.ts`
+4. Start the server: `npm start`
 
 ## API Endpoints
 

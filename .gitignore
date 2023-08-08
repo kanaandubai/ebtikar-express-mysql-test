@@ -13,8 +13,7 @@ logs/
 # Environment variables
 .env
 
-# Build artifacts
-build/
+
 
 # macOS
 .DS_Store
