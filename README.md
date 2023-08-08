@@ -1,6 +1,6 @@
 # My Awesome Express API
 
-This is a sample Express API project for authentication and CRUD operations to Pass EBTIKAE COMPANY TEST.
+This is a sample TypeScript Express API project for authentication and CRUD operations to Pass EBTIKAE COMPANY TEST.
 
 ## Prerequisites
 
