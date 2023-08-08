@@ -1,0 +1,23 @@
+# Node.js
+node_modules/
+dist/
+
+# Editor-specific
+.vscode/
+.idea/
+
+# Logs and generated files
+logs/
+*.log
+
+# Environment variables
+.env
+
+# Build artifacts
+build/
+
+# macOS
+.DS_Store
+
+# Compiled TypeScript
+*.js
