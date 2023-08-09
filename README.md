@@ -16,8 +16,8 @@ This is a sample TypeScript Express API project for authentication and CRUD oper
 
 ## API Endpoints
 
-- `/register`: User registration
-- `/login`: User login
+- `/signup`: User sign up
+- `/signin`: User sign in
 - `/profile`: User profile (authenticated)
 - `/products`: CRUD operations for products (authenticated)
 
